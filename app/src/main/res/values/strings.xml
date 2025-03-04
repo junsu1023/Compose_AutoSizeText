@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <!-- Dummy Text -->
+    <string name="dummy1">Hello Android</string>
+    <string name="dummy2">Hello, This is auto size text</string>
+    <string name="dummy3">Hello everyone, This is auto size text</string>
 </resources>
